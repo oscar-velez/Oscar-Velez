@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Oscar Velez 👋
 
-<!--
-**oscar-velez/Oscar-Velez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student @ Arizona State University  
+📍 West Covina, CA | Open to Remote Roles  
+📊 Marketing Analytics | Python | SQL | Machine Learning  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python (Pandas, NumPy), SQL
+- **Marketing Tools:** HubSpot, Google Analytics 4, Google Ads
+- **Data Viz:** Matplotlib, Excel Dashboards
+- **Other:** Data Cleaning, Funnel Analysis, Email Marketing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects I'm Building
+- 📈 Marketing Campaign Dashboard
+- 🔄 Customer Churn Prediction
+- 👥 Customer Segmentation
+
+## 📜 Certifications
+- IBM Data Analyst Professional Certificate
+- HubSpot Email Marketing, Inbound & Content Marketing
+- Google Digital Marketing & E-Commerce
+
+## 📫 Contact
+velezoscar17@gmail.com
